@@ -29,7 +29,7 @@ A screen will appear showing the Hulu TV activation code.
 How to Use the Hulu TV Activation Code
 Once you have the code, here's how to activate your Hulu account on your device:
 
-On a computer or smartphone, open a browser and go to: https://www.hulu.com/activate
+On a computer or smartphone, open a browser and go to: 
 
 Log in with your Hulu credentials.
 
